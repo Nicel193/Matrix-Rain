@@ -1,7 +1,7 @@
 #pragma once
 
-// #define PRINT_CHARACTERS 15 + 12784 // Japanese
-#define PRINT_CHARACTERS 93 + 33 // Default
+#define PRINT_CHARACTERS 15 + 12784 // Japanese
+// #define PRINT_CHARACTERS 93 + 33 // Default
 #define RAIN_DROP_LENGTH_RAND 15 + 3
 #define SPEED_ANIMATION 100
 
